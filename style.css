@@ -34,7 +34,7 @@ span{
   background-position:right;
   background-repeat: no-repeat;
   background-size: cover;
-  width : 300%;
+  width : 100%;
 }
 .akku1{
   border-radius: 50%;
@@ -52,7 +52,7 @@ span{
   position:relative;
   background-color: #393e46;
   height: 25rem;
-    width : 300%;
+    width : 100%;
 }
 .mid_image{
   display:inline-block;
